@@ -1,6 +1,6 @@
 <h3>UdeSchool </h3>
 
-Bu site, firma tarafından sunulan Html,Css,js ve React kursu hakkında bilgiler içeren resonsive yapıda bir sitedir
+Bu site, firma tarafından sunulan Html,Css,js ve React kursu hakkında bilgiler içeren responsive yapıda bir sitedir
 
 <h3>Kullanılan Diller</h3>
 
