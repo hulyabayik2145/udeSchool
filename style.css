@@ -1,0 +1,15 @@
+/*body olusurken içine aşağıdaki ozellikleri barındıran bir eleman ekler*/
+
+body::before{
+    display: block;
+    content: '';
+    height:60px;
+}
+#map{
+    height: 600px;
+    width: 100%;
+
+}
+html{
+    scroll-behavior: smooth !important;
+}
